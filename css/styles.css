@@ -235,7 +235,7 @@ img {
   padding: 120px 0;
 }
 
-.conteiner-benefits {
+.container-benefits {
   margin-bottom: 8px;
 }
 
@@ -473,6 +473,7 @@ img {
 }
 
 .footer-social {
+  font-weight: 500;
   margin-bottom: 16px;
   color: #ffffff;
 }
